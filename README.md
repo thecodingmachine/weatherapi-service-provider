@@ -14,7 +14,8 @@ If your container supports Puli integration, you have nothing to do. Otherwise, 
 
 ## Introduction
 
-This service provider is meant to **[fill purpose here]**.
+This service provider is meant to create a `WeatherApi` service in your container.
+This is part of a [demo for a talk at Paris ForumPHP 2016](https://thecodingmachine.github.io/forumphp2016talk/) and is not meant to be used in production.
 
 ## Expected values / services
 
