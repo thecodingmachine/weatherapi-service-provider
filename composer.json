@@ -1,6 +1,6 @@
 {
   "name": "thecodingmachine/weatherapi-service-provider",
-  "description": "Cross-framework module for xxx/yyy",
+  "description": "Cross-framework module for thecodingmachine/weatherapi",
   "license": "MIT",
   "type": "library",
   "autoload": {
