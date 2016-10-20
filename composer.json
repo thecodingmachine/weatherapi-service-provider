@@ -1,0 +1,24 @@
+{
+  "name": "thecodingmachine/weatherapi-service-provider",
+  "description": "Cross-framework module for xxx/yyy",
+  "license": "MIT",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "TheCodingMachine\\WeatherApi\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "container-interop/service-provider": "^0.3",
+    "thecodingmachine/weatherapi": "^1.0"
+  },
+  "require-dev": {
+    "puli/cli":"^1.0",
+    "puli/composer-plugin": "^1.0",
+    "guzzlehttp/guzzle": "^6.0",
+    "php-http/guzzle6-adapter": "^1.1"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
