@@ -1,6 +1,13 @@
 {
     "version": "1.0",
     "name": "thecodingmachine/weatherapi-service-provider",
+    "bindings": {
+        "f78e76b9-6fe4-4786-bbec-8c6ffe24d885": {
+            "_class": "Puli\\Discovery\\Binding\\ClassBinding",
+            "class": "TheCodingMachine\\WeatherApi\\WeatherApiServiceProvider",
+            "type": "container-interop/service-provider"
+        }
+    },
     "config": {
         "bootstrap-file": "vendor/autoload.php"
     },
