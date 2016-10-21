@@ -4,6 +4,7 @@ namespace TheCodingMachine\WeatherApi;
 
 use Http\Client\HttpClient;
 use Interop\Container\ContainerInterface;
+use Interop\Container\ServiceProvider;
 use Psr\Cache\CacheItemPoolInterface;
 use Psr\Log\LoggerInterface;
 
